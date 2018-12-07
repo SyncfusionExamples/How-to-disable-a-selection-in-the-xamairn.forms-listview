@@ -1,7 +1,7 @@
 # How to disable a selection in the xamairn.forms listview?
 This example demonstrates how to disable a selection in the xamairn.forms listview by using the SelectionMode property.
 
-See [How to disable a selection in the xamairn.forms listview]() for more details.
+See [How to disable a selection in the xamairn.forms listview](https://www.syncfusion.com/kb/9982/how-to-disable-a-selection-in-the-xamairn-forms-listview) for more details.
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
 
 * [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/) or [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/).
